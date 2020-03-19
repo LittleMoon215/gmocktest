@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="untitled" targetName="untitled" />
+      <config projectName="untitled" targetName="untitled_autogen" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" BUILD_OPTIONS="-- -j4 -lgtest -lgtest_main -lgmock -lgmock_main -lpthread" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="564f4803-ddbf-472c-8a7b-fae47b40b7b1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/googletest" />
+  </component>
+  <component name="ProjectId" id="1Z14XDhaSBBRzde8dnBRthtl2I1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CMakeSettings" />
+  </component>
+  <component name="RunManager" selected="CMake Application.untitled">
+    <configuration name="Failing test" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="untitled" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="untitled" TEST_CLASS="[failing]" TEST_METHOD="Failing test" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StateMachine::StateMachine_SuccessfulEnter_defaultState" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" temporary="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="untitled" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="untitled" TEST_METHOD="StateMachine::StateMachine_SuccessfulEnter_defaultState" TEST_MODE="SUITE_TEST">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="BeforeTestRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="untitled" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="untitled" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="untitled" RUN_TARGET_NAME="untitled">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="untitled_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="untitled" TARGET_NAME="untitled_autogen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Catch.Failing test" />
+      <item itemvalue="Catch.StateMachine::StateMachine_SuccessfulEnter_defaultState" />
+      <item itemvalue="CMake Application.untitled" />
+      <item itemvalue="CMake Application.untitled_autogen" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Catch.StateMachine::StateMachine_SuccessfulEnter_defaultState" />
+        <item itemvalue="Catch.Failing test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="564f4803-ddbf-472c-8a7b-fae47b40b7b1" name="Default Changelist" comment="" />
+      <created>1583993303523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583993303523</updated>
+      <workItem from="1583993305615" duration="11808000" />
+      <workItem from="1584518039859" duration="7219000" />
+      <workItem from="1584525803537" duration="3023000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="278" y="59" width="800" height="684" key="#New_File_Extensions" timestamp="1583994773161">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="278" y="59" width="800" height="684" key="#New_File_Extensions/0.27.1366.741@0.27.1366.741" timestamp="1583994773161" />
+    <state x="352" y="109" width="652" height="583" key="#StateMachine::StateMachine_SuccessfulEnter_defaultState" timestamp="1584523504493">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="352" y="109" width="652" height="583" key="#StateMachine::StateMachine_SuccessfulEnter_defaultState/0.27.1366.741@0.27.1366.741" timestamp="1584523504493" />
+    <state x="454" y="161" width="515" height="483" key="EnvironmentVariablesDialog" timestamp="1584527944288">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="454" y="161" width="515" height="483" key="EnvironmentVariablesDialog/0.27.1366.741@0.27.1366.741" timestamp="1584527944288" />
+    <state x="500" y="157" width="424" height="491" key="FileChooserDialogImpl" timestamp="1584528007089">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="500" y="157" width="424" height="491" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1584528007089" />
+    <state width="1320" height="149" key="GridCell.Tab.0.bottom" timestamp="1584523179553">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1584523179553" />
+    <state width="1320" height="149" key="GridCell.Tab.0.center" timestamp="1584523179552">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1584523179552" />
+    <state width="1320" height="149" key="GridCell.Tab.0.left" timestamp="1584523179552">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1584523179552" />
+    <state width="1320" height="149" key="GridCell.Tab.0.right" timestamp="1584523179552">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="149" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1584523179552" />
+    <state x="172" y="31" width="1090" height="737" key="SettingsEditor" timestamp="1584528090066">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="172" y="31" width="1090" height="737" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1584528090066" />
+    <state x="347" y="174" key="run.anything.popup" timestamp="1583996859989">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="347" y="174" key="run.anything.popup/0.27.1366.741@0.27.1366.741" timestamp="1583996859989" />
+  </component>
+</project>
